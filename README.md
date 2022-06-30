@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Rone-Java" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<img align="right"a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e6edf4b2a0c1c19e632eda08f2cbbc9d.gif" width="125" height="125" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+<img align="right" alt="https://picasion.com/" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/e6edf4b2a0c1c19e632eda08f2cbbc9d.gif">
+
+
 </div>
